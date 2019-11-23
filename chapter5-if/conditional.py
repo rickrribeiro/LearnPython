@@ -30,4 +30,19 @@ carro = "asd"
 
 if carro not in cars:
     print("carro n ta")
-    
+
+requested = []
+
+if requested:
+    print("lista cheia")
+else:
+    print("lista vazia")
+
+req = ['pasta','tomate']
+avai = ['tomate']
+
+for request in req:
+    if request in avai:
+        print("tem "+ request)
+    else:
+        print("N tem "+request)
