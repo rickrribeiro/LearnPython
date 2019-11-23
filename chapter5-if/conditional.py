@@ -30,3 +30,4 @@ carro = "asd"
 
 if carro not in cars:
     print("carro n ta")
+    
