@@ -16,3 +16,16 @@ def pritar(message):
     print(message)
 
 pritar("oi")
+
+def agrs(arg1,arg2, default='luz'):
+    print(arg1+" "+arg2+" "+default)
+
+agrs(arg2='asd', arg1='abc')
+agrs('bbb','aaa')
+agrs('bbb','aaa','ccc')
+
+#mid is an optional argument
+def title(name,surname,midname=''):
+    return name.title()+" "+surname.title()
+
+print(title('ricardo','ribeiro'))
