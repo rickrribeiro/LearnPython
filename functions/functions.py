@@ -29,3 +29,14 @@ def title(name,surname,midname=''):
     return name.title()+" "+surname.title()
 
 print(title('ricardo','ribeiro'))
+
+#Passar por valor
+def nao_mod(lista):
+    lista[1]='dd'
+
+
+liste = ['a','b','c']
+nao_mod(liste[:])
+print(liste)
+nao_mod(liste)
+print(liste)
