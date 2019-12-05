@@ -16,3 +16,5 @@ while select != 0:
         canil.addDog(dog.Dog(input("Name: "),int(input("Age: "))))
     elif select == 2:
         canil.printDog()
+
+print(security.name)
