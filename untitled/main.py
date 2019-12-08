@@ -10,3 +10,7 @@ with open('numbers') as file:
     print(lines)
     for line in lines:
         print(line)
+
+#r - read, w - write, a - append (write without delete), r+ - read and write
+with open('numbers','a') as file:
+    file.write('teste')
