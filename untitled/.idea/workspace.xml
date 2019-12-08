@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f88a2430-87b3-414b-bff3-c49eee9c2118" name="Default Changelist" comment="" />
+    <list default="true" id="ccdf9cef-d498-43b6-9835-ce2ef35b06f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classModule9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../classModule9/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +22,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1UOel1jQtM6hEfJVIVew4UHZKai" />
+  <component name="ProjectId" id="1UgMopUOR9CCOkpBXhY5yKMzNaB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -37,11 +44,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f88a2430-87b3-414b-bff3-c49eee9c2118" name="Default Changelist" comment="" />
-      <created>1575232215938</created>
+      <changelist id="ccdf9cef-d498-43b6-9835-ce2ef35b06f8" name="Default Changelist" comment="" />
+      <created>1575773962162</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575232215938</updated>
+      <updated>1575773962162</updated>
     </task>
     <servers />
   </component>
@@ -50,9 +57,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
