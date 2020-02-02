@@ -11,3 +11,6 @@ class testeTit(unittest.TestCase):
         self.assertEqual(formatted_name, 'Ricardo Ribeiro')
 
 unittest.main()  #roda todos os testcasep
+
+"""setUp() method can make
+your test methods easier to write. """
