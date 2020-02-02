@@ -18,3 +18,10 @@ except ZeroDivisionError:
 #r - read, w - write, a - append (write without delete), r+ - read and write
 with open('numbers','a') as file:
     file.write('teste')
+
+
+def titulo(name,surname):
+    return name.title()+" "+surname.title()
+
+a = titulo("ricardo","ribeiro")
+print(a)
